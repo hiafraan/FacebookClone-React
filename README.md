@@ -19,3 +19,6 @@ This project is a clone of the popular social media platform, Facebook, built wi
 - Responsive layout
 
 > Using pure CSS allows for more customization, but can be time-consuming. A CSS framework can provide a basic layout quickly, but may not offer as much flexibility. It depends on your specific needs and resources.
+
+https://user-images.githubusercontent.com/92703034/233050241-a049c8a9-4eba-4f28-acd8-1c388e91ece2.mp4
+
